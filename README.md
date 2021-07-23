@@ -8,7 +8,7 @@
 <p align="left">
   <samp>
     Hello! I’m an experienced JavaScript, CSS & PHP Developer with a focus on creating amazing user experiences ⚡
-        <br><br> Interests include: kendama, coding, reading (mostly manga/sci-fi λ), music, games, learning something new, and living with Arete 🌱
+        <br><br> Interests include: <a href="https://www.kendama.co" rel="noopener" target="_blank">kendama</a>, coding, reading (mostly manga/sci-fi λ), music, games, learning something new, and living with Arete 🌱
     <br><br> // Get in touch ↗
     <br><br>
     <a href="https://www.linkedin.com/in/blakejs" rel="noopener" target="_blank">
