@@ -80,10 +80,3 @@
     <img src="https://img.shields.io/badge/vim%20-57A143.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   </ul>
 </p>
-
-<hr>
-<div align="left">
-<img align="center" alt="Blakes languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakejs&langs_count=7&layout=compact&theme=nightowl" />
-<hr>
-  <img align="center" alt="Blakes Stats" src="https://github-readme-stats.vercel.app/api?username=blakejs&show_icons=true&theme=nightowl&hide=contribs,prs" />
-</div>
